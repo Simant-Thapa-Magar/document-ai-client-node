@@ -1,0 +1,15 @@
+{
+  "name": "document-ai-client",
+  "version": "1.0.0",
+  "description": "trying document ai api from node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simant Thapa Magar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/documentai": "^8.0.1",
+    "dotenv": "^16.3.1"
+  }
+}
